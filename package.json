@@ -1,0 +1,15 @@
+{
+  "name": "back-and-tarefa-jhony",
+  "version": "1.0.0",
+  "main": "pessoas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
