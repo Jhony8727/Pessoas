@@ -104,7 +104,7 @@ const pessoas = [
         idade: 26, 
     },
 ];
-app.get("/pessoas", (req, res) => {
+app.get("/", (req, res) => {
     const { campo, valor } = req.query;
   
     if (!campo || !valor) {
